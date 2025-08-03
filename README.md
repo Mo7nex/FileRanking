@@ -1,4 +1,4 @@
-wendang # 文件点击排行榜系统
+# 文件点击排行榜系统
 
 一个现代化的在线文件上传和点击排行榜系统，支持实时文件上传、下载和点击统计。
 
@@ -754,4 +754,5 @@ sequenceDiagram
     Store->>Store: 重新排序
     Store-->>Web: WebSocket推送更新
     Web-->>User: 更新排行榜
+
 ```
