@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>文件点击排行榜系统</title>
+    <link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+    <div class="container">
+        <header class="header">
+            <h1>文件管理系统</h1>
+            <p>智能文件管理 · 实时排行榜 · 任意格式支持</p>
+        </header>
+
+        <div class="main-content">
+            <div class="top-section">
+                <div class="left-panel">
+                    <div class="upload-section">
+                        <div class="upload-header">
+                            <h2 class="section-title">📤 文件上传</h2>
+                            <button class="create-btn" id="createBtn">📝 新建文件</button>
+                        </div>
+                        <div class="upload-area" id="uploadArea">
+                            <div class="upload-icon">📁</div>
+                            <div class="upload-text">拖拽上传文件</div>
+                            <div class="upload-hint">支持任意格式</div>
+                            <input type="file" id="fileInput" style="display: none;" multiple>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="right-panel">
+                    <section class="ranking-section">
+                        <h2 class="section-title">🏆 点击排行榜</h2>
+                        <div class="ranking-list" id="rankingList">
+                            <div class="empty-state">
+                                <div class="empty-icon">🏆</div>
+                                <p>暂无排行数据</p>
+                            </div>
+                        </div>
+                    </section>
+                </div>
+            </div>
+
+            <div class="bottom-section">
+                <section class="files-section">
+                    <h2 class="section-title">📋 所有文件</h2>
+                    <div class="files-stats">
+                        <div class="stat-item">
+                            <span class="stat-icon">📁</span>
+                            <span class="stat-number" id="totalCount">0</span>
+                            <span class="stat-label">总文件数</span>
+                        </div>
+                        <div class="stat-item">
+                            <span class="stat-icon">👆</span>
+                            <span class="stat-number" id="totalClicks">0</span>
+                            <span class="stat-label">总点击数</span>
+                        </div>
+                        <div class="stat-item">
+                            <span class="stat-icon">💾</span>
+                            <span class="stat-number" id="totalSize">0 B</span>
+                            <span class="stat-label">总大小</span>
+                        </div>
+                    </div>
+                    <div class="files-subtitle">按创建时间排序</div>
+                    <div class="file-list" id="fileList">
+                        <div class="empty-state">
+                            <div class="empty-icon">📁</div>
+                            <p>暂无文件</p>
+                        </div>
+                    </div>
+                </section>
+            </div>
+        </div>
+    </div>
+
+    <script src="js/app.js"></script>
+</body>
+</html>

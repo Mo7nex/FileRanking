@@ -1,0 +1,523 @@
+[INFO] 2025/08/03 10:39:14 logger.go:78: 🚀 启动文档点击排行榜系统...
+[INFO] 2025/08/03 10:39:14 logger.go:78: ✨ 系统已准备好接收文档上传
+[INFO] 2025/08/03 10:39:14 logger.go:78: 🌐 服务器启动于 http://localhost:8080
+[INFO] 2025/08/03 10:39:14 logger.go:78: 📱 Web界面: http://localhost:8080
+[INFO] 2025/08/03 10:39:14 logger.go:78: 📊 API文档: http://localhost:8080/api/health
+[INFO] 2025/08/03 10:39:35 logger.go:78: WebSocket client connected
+[INFO] 2025/08/03 10:39:39 logger.go:78: 👆 收到点击请求: doc_1754134869806258500
+[INFO] 2025/08/03 10:39:39 logger.go:78: ✅ 点击成功: context_test.doc (当前点击: 69)
+[INFO] 2025/08/03 10:39:39 logger.go:78: 👆 收到点击请求: doc_1754134841244147100
+[INFO] 2025/08/03 10:39:39 logger.go:78: ✅ 点击成功: 中文测试文件.txt (当前点击: 90)
+[INFO] 2025/08/03 10:39:39 logger.go:78: 👆 收到点击请求: doc_1754134869806258500
+[INFO] 2025/08/03 10:39:39 logger.go:78: ✅ 点击成功: context_test.doc (当前点击: 70)
+[INFO] 2025/08/03 10:39:40 logger.go:78: 👆 收到点击请求: doc_1754131449370576100
+[INFO] 2025/08/03 10:39:40 logger.go:78: ✅ 点击成功: 中文测试文档.txt (当前点击: 133)
+[INFO] 2025/08/03 10:39:40 logger.go:78: 👆 收到点击请求: doc_1754131346376901300
+[INFO] 2025/08/03 10:39:40 logger.go:78: ✅ 点击成功: test_context.txt (当前点击: 99)
+[INFO] 2025/08/03 10:39:40 logger.go:78: 👆 收到点击请求: doc_1754131449370576100
+[INFO] 2025/08/03 10:39:40 logger.go:78: ✅ 点击成功: 中文测试文档.txt (当前点击: 134)
+[INFO] 2025/08/03 10:39:40 logger.go:78: 👆 收到点击请求: doc_1754134869806258500
+[INFO] 2025/08/03 10:39:40 logger.go:78: ✅ 点击成功: context_test.doc (当前点击: 71)
+[INFO] 2025/08/03 10:39:41 logger.go:78: 👆 收到点击请求: doc_1754134841244147100
+[INFO] 2025/08/03 10:39:41 logger.go:78: ✅ 点击成功: 中文测试文件.txt (当前点击: 91)
+[INFO] 2025/08/03 10:39:41 logger.go:78: 👆 收到点击请求: doc_1754134869806258500
+[INFO] 2025/08/03 10:39:41 logger.go:78: ✅ 点击成功: context_test.doc (当前点击: 72)
+[INFO] 2025/08/03 10:39:41 logger.go:78: 👆 收到点击请求: doc_1754131449370576100
+[INFO] 2025/08/03 10:39:41 logger.go:78: ✅ 点击成功: 中文测试文档.txt (当前点击: 135)
+[INFO] 2025/08/03 10:39:42 logger.go:78: 👆 收到点击请求: doc_1754131346376901300
+[INFO] 2025/08/03 10:39:42 logger.go:78: ✅ 点击成功: test_context.txt (当前点击: 100)
+[INFO] 2025/08/03 10:39:43 logger.go:78: 👆 收到点击请求: doc_1754131449370576100
+[INFO] 2025/08/03 10:39:43 logger.go:78: ✅ 点击成功: 中文测试文档.txt (当前点击: 136)
+[INFO] 2025/08/03 10:39:44 logger.go:78: 👆 收到点击请求: doc_1754134869806258500
+[INFO] 2025/08/03 10:39:44 logger.go:78: ✅ 点击成功: context_test.doc (当前点击: 73)
+[INFO] 2025/08/03 10:39:45 logger.go:78: 👆 收到点击请求: doc_1754134869806258500
+[INFO] 2025/08/03 10:39:45 logger.go:78: ✅ 点击成功: context_test.doc (当前点击: 74)
+[INFO] 2025/08/03 10:39:45 logger.go:78: 👆 收到点击请求: doc_1754134869806258500
+[INFO] 2025/08/03 10:39:45 logger.go:78: ✅ 点击成功: context_test.doc (当前点击: 75)
+[INFO] 2025/08/03 10:39:46 logger.go:78: 👆 收到点击请求: doc_1754134869806258500
+[INFO] 2025/08/03 10:39:46 logger.go:78: ✅ 点击成功: context_test.doc (当前点击: 76)
+[INFO] 2025/08/03 10:39:46 logger.go:78: 👆 收到点击请求: doc_1754134869806258500
+[INFO] 2025/08/03 10:39:46 logger.go:78: ✅ 点击成功: context_test.doc (当前点击: 77)
+[INFO] 2025/08/03 10:39:47 logger.go:78: 👆 收到点击请求: doc_1754134869806258500
+[INFO] 2025/08/03 10:39:47 logger.go:78: ✅ 点击成功: context_test.doc (当前点击: 78)
+[INFO] 2025/08/03 10:39:48 logger.go:78: 👆 收到点击请求: doc_1754134869806258500
+[INFO] 2025/08/03 10:39:48 logger.go:78: ✅ 点击成功: context_test.doc (当前点击: 79)
+[INFO] 2025/08/03 10:39:48 logger.go:78: 👆 收到点击请求: doc_1754134869806258500
+[INFO] 2025/08/03 10:39:48 logger.go:78: ✅ 点击成功: context_test.doc (当前点击: 80)
+[INFO] 2025/08/03 10:39:48 logger.go:78: 👆 收到点击请求: doc_1754134869806258500
+[INFO] 2025/08/03 10:39:48 logger.go:78: ✅ 点击成功: context_test.doc (当前点击: 81)
+[INFO] 2025/08/03 10:39:49 logger.go:78: 👆 收到点击请求: doc_1754134869806258500
+[INFO] 2025/08/03 10:39:49 logger.go:78: ✅ 点击成功: context_test.doc (当前点击: 82)
+[INFO] 2025/08/03 10:39:49 logger.go:78: 👆 收到点击请求: doc_1754134869806258500
+[INFO] 2025/08/03 10:39:49 logger.go:78: ✅ 点击成功: context_test.doc (当前点击: 83)
+[INFO] 2025/08/03 10:39:49 logger.go:78: 👆 收到点击请求: doc_1754134869806258500
+[INFO] 2025/08/03 10:39:49 logger.go:78: ✅ 点击成功: context_test.doc (当前点击: 84)
+[INFO] 2025/08/03 10:39:50 logger.go:78: 👆 收到点击请求: doc_1754134869806258500
+[INFO] 2025/08/03 10:39:50 logger.go:78: ✅ 点击成功: context_test.doc (当前点击: 85)
+[INFO] 2025/08/03 10:39:50 logger.go:78: 👆 收到点击请求: doc_1754134869806258500
+[INFO] 2025/08/03 10:39:50 logger.go:78: ✅ 点击成功: context_test.doc (当前点击: 86)
+[INFO] 2025/08/03 10:39:50 logger.go:78: 👆 收到点击请求: doc_1754134869806258500
+[INFO] 2025/08/03 10:39:50 logger.go:78: ✅ 点击成功: context_test.doc (当前点击: 87)
+[INFO] 2025/08/03 10:39:50 logger.go:78: 👆 收到点击请求: doc_1754134869806258500
+[INFO] 2025/08/03 10:39:50 logger.go:78: ✅ 点击成功: context_test.doc (当前点击: 88)
+[INFO] 2025/08/03 10:39:50 logger.go:78: 👆 收到点击请求: doc_1754134869806258500
+[INFO] 2025/08/03 10:39:50 logger.go:78: ✅ 点击成功: context_test.doc (当前点击: 89)
+[INFO] 2025/08/03 10:39:51 logger.go:78: 👆 收到点击请求: doc_1754134869806258500
+[INFO] 2025/08/03 10:39:51 logger.go:78: ✅ 点击成功: context_test.doc (当前点击: 90)
+[INFO] 2025/08/03 10:39:51 logger.go:78: 👆 收到点击请求: doc_1754134869806258500
+[INFO] 2025/08/03 10:39:51 logger.go:78: ✅ 点击成功: context_test.doc (当前点击: 91)
+[INFO] 2025/08/03 10:39:51 logger.go:78: 👆 收到点击请求: doc_1754134869806258500
+[INFO] 2025/08/03 10:39:51 logger.go:78: ✅ 点击成功: context_test.doc (当前点击: 92)
+[INFO] 2025/08/03 10:39:51 logger.go:78: 👆 收到点击请求: doc_1754134869806258500
+[INFO] 2025/08/03 10:39:51 logger.go:78: ✅ 点击成功: context_test.doc (当前点击: 93)
+[INFO] 2025/08/03 10:39:51 logger.go:78: 👆 收到点击请求: doc_1754134869806258500
+[INFO] 2025/08/03 10:39:51 logger.go:78: ✅ 点击成功: context_test.doc (当前点击: 94)
+[INFO] 2025/08/03 10:39:51 logger.go:78: 👆 收到点击请求: doc_1754134869806258500
+[INFO] 2025/08/03 10:39:51 logger.go:78: ✅ 点击成功: context_test.doc (当前点击: 95)
+[INFO] 2025/08/03 10:39:52 logger.go:78: 👆 收到点击请求: doc_1754134869806258500
+[INFO] 2025/08/03 10:39:52 logger.go:78: ✅ 点击成功: context_test.doc (当前点击: 96)
+[INFO] 2025/08/03 10:39:53 logger.go:78: 👆 收到点击请求: doc_1754134841244147100
+[INFO] 2025/08/03 10:39:53 logger.go:78: ✅ 点击成功: 中文测试文件.txt (当前点击: 92)
+[INFO] 2025/08/03 10:39:53 logger.go:78: 👆 收到点击请求: doc_1754134841244147100
+[INFO] 2025/08/03 10:39:53 logger.go:78: ✅ 点击成功: 中文测试文件.txt (当前点击: 93)
+[INFO] 2025/08/03 10:39:53 logger.go:78: 👆 收到点击请求: doc_1754134841244147100
+[INFO] 2025/08/03 10:39:53 logger.go:78: ✅ 点击成功: 中文测试文件.txt (当前点击: 94)
+[INFO] 2025/08/03 10:39:54 logger.go:78: 👆 收到点击请求: doc_1754134841244147100
+[INFO] 2025/08/03 10:39:54 logger.go:78: ✅ 点击成功: 中文测试文件.txt (当前点击: 95)
+[INFO] 2025/08/03 10:39:54 logger.go:78: 👆 收到点击请求: doc_1754134841244147100
+[INFO] 2025/08/03 10:39:54 logger.go:78: ✅ 点击成功: 中文测试文件.txt (当前点击: 96)
+[INFO] 2025/08/03 10:39:54 logger.go:78: 👆 收到点击请求: doc_1754134841244147100
+[INFO] 2025/08/03 10:39:54 logger.go:78: ✅ 点击成功: 中文测试文件.txt (当前点击: 97)
+[INFO] 2025/08/03 10:39:54 logger.go:78: 👆 收到点击请求: doc_1754134841244147100
+[INFO] 2025/08/03 10:39:54 logger.go:78: ✅ 点击成功: 中文测试文件.txt (当前点击: 98)
+[INFO] 2025/08/03 10:39:54 logger.go:78: 👆 收到点击请求: doc_1754134841244147100
+[INFO] 2025/08/03 10:39:54 logger.go:78: ✅ 点击成功: 中文测试文件.txt (当前点击: 99)
+[INFO] 2025/08/03 10:39:54 logger.go:78: 👆 收到点击请求: doc_1754134841244147100
+[INFO] 2025/08/03 10:39:54 logger.go:78: ✅ 点击成功: 中文测试文件.txt (当前点击: 100)
+[INFO] 2025/08/03 10:39:55 logger.go:78: 👆 收到点击请求: doc_1754134841244147100
+[INFO] 2025/08/03 10:39:55 logger.go:78: ✅ 点击成功: 中文测试文件.txt (当前点击: 101)
+[INFO] 2025/08/03 10:39:58 logger.go:78: 👆 收到点击请求: doc_1754134841244147100
+[INFO] 2025/08/03 10:39:58 logger.go:78: ✅ 点击成功: 中文测试文件.txt (当前点击: 102)
+[INFO] 2025/08/03 10:39:58 logger.go:78: 👆 收到点击请求: doc_1754134841244147100
+[INFO] 2025/08/03 10:39:58 logger.go:78: ✅ 点击成功: 中文测试文件.txt (当前点击: 103)
+[INFO] 2025/08/03 10:39:58 logger.go:78: 👆 收到点击请求: doc_1754134841244147100
+[INFO] 2025/08/03 10:39:58 logger.go:78: ✅ 点击成功: 中文测试文件.txt (当前点击: 104)
+[INFO] 2025/08/03 10:39:58 logger.go:78: 👆 收到点击请求: doc_1754134841244147100
+[INFO] 2025/08/03 10:39:58 logger.go:78: ✅ 点击成功: 中文测试文件.txt (当前点击: 105)
+[INFO] 2025/08/03 10:39:58 logger.go:78: 👆 收到点击请求: doc_1754134841244147100
+[INFO] 2025/08/03 10:39:58 logger.go:78: ✅ 点击成功: 中文测试文件.txt (当前点击: 106)
+[INFO] 2025/08/03 10:39:58 logger.go:78: 👆 收到点击请求: doc_1754134841244147100
+[INFO] 2025/08/03 10:39:58 logger.go:78: ✅ 点击成功: 中文测试文件.txt (当前点击: 107)
+[INFO] 2025/08/03 10:39:58 logger.go:78: 👆 收到点击请求: doc_1754134841244147100
+[INFO] 2025/08/03 10:39:58 logger.go:78: ✅ 点击成功: 中文测试文件.txt (当前点击: 108)
+[INFO] 2025/08/03 10:40:01 logger.go:78: WebSocket client disconnected
+[INFO] 2025/08/03 10:40:11 logger.go:78: WebSocket client connected
+[INFO] 2025/08/03 10:40:14 logger.go:78: 📖 获取文件内容: doc_1754131449370576100
+[INFO] 2025/08/03 10:40:14 logger.go:78: ✅ 获取内容成功: doc_1754131449370576100
+[INFO] 2025/08/03 10:40:16 logger.go:78: 📝 收到更新文件内容请求: doc_1754131449370576100
+[INFO] 2025/08/03 10:40:16 logger.go:78: 📝 开始更新文件内容: 中文测试文档.txt (ID: doc_1754131449370576100, 当前点击: 136)
+[INFO] 2025/08/03 10:40:16 logger.go:78: ✅ 文件内容更新成功: 中文测试文档.txt (ID: doc_1754131449370576100, 点击数: 136)
+[INFO] 2025/08/03 10:40:16 logger.go:78: ✅ 更新文件内容成功: 中文测试文档.txt (ID: doc_1754131449370576100, 点击数: 136)
+[INFO] 2025/08/03 10:40:23 logger.go:78: 📖 获取文件内容: doc_1754131449370576100
+[INFO] 2025/08/03 10:40:23 logger.go:78: ✅ 获取内容成功: doc_1754131449370576100
+[INFO] 2025/08/03 10:40:25 logger.go:78: 📖 获取文件内容: doc_1754134869806258500
+[INFO] 2025/08/03 10:40:25 logger.go:78: ✅ 获取内容成功: doc_1754134869806258500
+[INFO] 2025/08/03 10:41:11 logger.go:78: WebSocket client disconnected
+[INFO] 2025/08/03 10:41:16 logger.go:78: WebSocket client connected
+[INFO] 2025/08/03 10:41:26 logger.go:78: 📖 获取文件内容: doc_1754131449370576100
+[INFO] 2025/08/03 10:41:26 logger.go:78: ✅ 获取内容成功: doc_1754131449370576100
+[INFO] 2025/08/03 10:41:37 logger.go:78: ✏️ 收到重命名请求: doc_1754131449370576100 → 中文测试文档11.txt
+[INFO] 2025/08/03 10:41:37 logger.go:78: ✏️ 重命名文件: 中文测试文档.txt → 中文测试文档11.txt (ID: doc_1754131449370576100)
+[INFO] 2025/08/03 10:41:37 logger.go:78: ✅ 重命名成功: doc_1754131449370576100 (新名称: 中文测试文档11.txt)
+[INFO] 2025/08/03 10:41:41 logger.go:78: ✏️ 收到重命名请求: doc_1754131449370576100 → 中文测试文档.txt
+[INFO] 2025/08/03 10:41:41 logger.go:78: ✏️ 重命名文件: 中文测试文档11.txt → 中文测试文档.txt (ID: doc_1754131449370576100)
+[INFO] 2025/08/03 10:41:41 logger.go:78: ✅ 重命名成功: doc_1754131449370576100 (新名称: 中文测试文档.txt)
+[INFO] 2025/08/03 10:42:09 logger.go:78: 📖 获取文件内容: doc_1754131346376901300
+[INFO] 2025/08/03 10:42:09 logger.go:78: ✅ 获取内容成功: doc_1754131346376901300
+[INFO] 2025/08/03 10:42:16 logger.go:78: WebSocket client disconnected
+[INFO] 2025/08/03 10:42:21 logger.go:78: WebSocket client connected
+[INFO] 2025/08/03 10:42:28 logger.go:78: 📖 获取文件内容: doc_1754131449370576100
+[INFO] 2025/08/03 10:42:28 logger.go:78: ✅ 获取内容成功: doc_1754131449370576100
+[INFO] 2025/08/03 10:42:38 logger.go:78: 📖 获取文件内容: doc_1754134841244147100
+[INFO] 2025/08/03 10:42:38 logger.go:78: ✅ 获取内容成功: doc_1754134841244147100
+[INFO] 2025/08/03 10:43:21 logger.go:78: WebSocket client disconnected
+[INFO] 2025/08/03 10:43:27 logger.go:78: WebSocket client connected
+[INFO] 2025/08/03 10:44:27 logger.go:78: WebSocket client disconnected
+[INFO] 2025/08/03 10:44:33 logger.go:78: WebSocket client connected
+[INFO] 2025/08/03 10:45:10 logger.go:78: WebSocket client disconnected
+[INFO] 2025/08/03 10:45:10 logger.go:78: WebSocket client connected
+[INFO] 2025/08/03 10:46:10 logger.go:78: WebSocket client disconnected
+[INFO] 2025/08/03 10:46:15 logger.go:78: WebSocket client connected
+[INFO] 2025/08/03 10:47:11 logger.go:78: 📖 获取文件内容: doc_1754134869806258500
+[INFO] 2025/08/03 10:47:11 logger.go:78: ✅ 获取内容成功: doc_1754134869806258500
+[INFO] 2025/08/03 10:47:15 logger.go:78: WebSocket client disconnected
+[INFO] 2025/08/03 10:47:21 logger.go:78: WebSocket client connected
+[INFO] 2025/08/03 10:48:21 logger.go:78: WebSocket client disconnected
+[INFO] 2025/08/03 10:48:27 logger.go:78: WebSocket client connected
+[INFO] 2025/08/03 10:49:27 logger.go:78: WebSocket client disconnected
+[INFO] 2025/08/03 10:49:32 logger.go:78: WebSocket client connected
+[INFO] 2025/08/03 10:49:41 logger.go:78: WebSocket client disconnected
+[INFO] 2025/08/03 10:49:41 logger.go:78: WebSocket client connected
+[INFO] 2025/08/03 10:50:41 logger.go:78: WebSocket client disconnected
+[INFO] 2025/08/03 10:50:47 logger.go:78: WebSocket client connected
+[INFO] 2025/08/03 10:51:34 logger.go:78: WebSocket client disconnected
+[INFO] 2025/08/03 10:51:34 logger.go:78: WebSocket client connected
+[INFO] 2025/08/03 10:52:18 logger.go:78: 🛑 正在关闭服务器...
+[INFO] 2025/08/03 10:52:18 logger.go:78: ✅ 服务器已关闭
+[INFO] 2025/08/03 10:52:20 logger.go:78: 🚀 启动文档点击排行榜系统...
+[INFO] 2025/08/03 10:52:20 logger.go:78: ✨ 系统已准备好接收文档上传
+[INFO] 2025/08/03 10:52:20 logger.go:78: 🌐 服务器启动于 http://localhost:8080
+[INFO] 2025/08/03 10:52:20 logger.go:78: 📱 Web界面: http://localhost:8080
+[INFO] 2025/08/03 10:52:20 logger.go:78: 📊 API文档: http://localhost:8080/api/health
+[INFO] 2025/08/03 10:52:23 logger.go:78: WebSocket client connected
+[INFO] 2025/08/03 10:52:27 logger.go:78: WebSocket client disconnected
+[INFO] 2025/08/03 10:52:27 logger.go:78: WebSocket client connected
+[INFO] 2025/08/03 10:52:36 logger.go:78: WebSocket client disconnected
+[INFO] 2025/08/03 10:53:14 logger.go:78: 📖 获取文件内容: doc_1754131346376901300
+[INFO] 2025/08/03 10:53:14 logger.go:78: ✅ 获取内容成功: doc_1754131346376901300
+[INFO] 2025/08/03 10:54:00 logger.go:78: 📖 获取文件内容: doc_1754131346376901300
+[INFO] 2025/08/03 10:54:00 logger.go:78: ✅ 获取内容成功: doc_1754131346376901300
+[INFO] 2025/08/03 10:54:05 logger.go:78: WebSocket client connected
+[INFO] 2025/08/03 10:54:44 logger.go:78: 📖 获取文件内容: doc_1754134869806258500
+[INFO] 2025/08/03 10:54:44 logger.go:78: ✅ 获取内容成功: doc_1754134869806258500
+[INFO] 2025/08/03 10:54:44 logger.go:78: WebSocket client disconnected
+[INFO] 2025/08/03 10:54:44 logger.go:78: WebSocket client connected
+[INFO] 2025/08/03 10:55:44 logger.go:78: WebSocket client disconnected
+[INFO] 2025/08/03 10:55:50 logger.go:78: WebSocket client connected
+[INFO] 2025/08/03 10:56:50 logger.go:78: WebSocket client disconnected
+[INFO] 2025/08/03 10:56:56 logger.go:78: WebSocket client connected
+[INFO] 2025/08/03 10:57:56 logger.go:78: WebSocket client disconnected
+[INFO] 2025/08/03 10:58:02 logger.go:78: WebSocket client connected
+[INFO] 2025/08/03 10:59:02 logger.go:78: WebSocket client disconnected
+[INFO] 2025/08/03 10:59:05 logger.go:78: WebSocket client connected
+[INFO] 2025/08/03 10:59:08 logger.go:78: WebSocket client connected
+[INFO] 2025/08/03 10:59:29 logger.go:78: WebSocket client disconnected
+[INFO] 2025/08/03 10:59:29 logger.go:78: WebSocket client disconnected
+[INFO] 2025/08/03 10:59:40 logger.go:78: 🛑 正在关闭服务器...
+[INFO] 2025/08/03 10:59:40 logger.go:78: ✅ 服务器已关闭
+[INFO] 2025/08/03 11:00:32 logger.go:78: 🚀 启动文档点击排行榜系统...
+[INFO] 2025/08/03 11:00:32 logger.go:78: ✨ 系统已准备好接收文档上传
+[INFO] 2025/08/03 11:00:32 logger.go:78: 🌐 服务器启动于 http://localhost:8080
+[INFO] 2025/08/03 11:00:32 logger.go:78: 📱 Web界面: http://localhost:8080
+[INFO] 2025/08/03 11:00:32 logger.go:78: 📊 API文档: http://localhost:8080/api/health
+[INFO] 2025/08/03 11:01:07 logger.go:78: 🚀 启动文档点击排行榜系统...
+[INFO] 2025/08/03 11:01:07 logger.go:78: ✨ 系统已准备好接收文档上传
+[INFO] 2025/08/03 11:01:07 logger.go:78: 🌐 服务器启动于 http://localhost:8080
+[INFO] 2025/08/03 11:01:07 logger.go:78: 📱 Web界面: http://localhost:8080
+[INFO] 2025/08/03 11:01:07 logger.go:78: 📊 API文档: http://localhost:8080/api/health
+[ERROR] 2025/08/03 11:01:07 logger.go:92: 服务器启动失败: listen tcp :8080: bind: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+[INFO] 2025/08/03 11:01:10 logger.go:78: 🚀 启动文档点击排行榜系统...
+[INFO] 2025/08/03 11:01:10 logger.go:78: ✨ 系统已准备好接收文档上传
+[INFO] 2025/08/03 11:01:10 logger.go:78: 🌐 服务器启动于 http://localhost:8080
+[INFO] 2025/08/03 11:01:10 logger.go:78: 📱 Web界面: http://localhost:8080
+[INFO] 2025/08/03 11:01:10 logger.go:78: 📊 API文档: http://localhost:8080/api/health
+[ERROR] 2025/08/03 11:01:10 logger.go:92: 服务器启动失败: listen tcp :8080: bind: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+[INFO] 2025/08/03 11:01:45 logger.go:78: 🚀 启动文档点击排行榜系统...
+[INFO] 2025/08/03 11:01:45 logger.go:78: ✨ 系统已准备好接收文档上传
+[INFO] 2025/08/03 11:01:45 logger.go:78: 🌐 服务器启动于 http://localhost:8080
+[INFO] 2025/08/03 11:01:45 logger.go:78: 📱 Web界面: http://localhost:8080
+[INFO] 2025/08/03 11:01:45 logger.go:78: 📊 API文档: http://localhost:8080/api/health
+[ERROR] 2025/08/03 11:01:45 logger.go:92: 服务器启动失败: listen tcp :8080: bind: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+[INFO] 2025/08/03 11:02:24 logger.go:78: 🚀 启动文档点击排行榜系统...
+[INFO] 2025/08/03 11:02:24 logger.go:78: ✨ 系统已准备好接收文档上传
+[INFO] 2025/08/03 11:02:24 logger.go:78: 🌐 服务器启动于 http://localhost:8080
+[INFO] 2025/08/03 11:02:24 logger.go:78: 📱 Web界面: http://localhost:8080
+[INFO] 2025/08/03 11:02:24 logger.go:78: 📊 API文档: http://localhost:8080/api/health
+[INFO] 2025/08/03 11:02:30 logger.go:78: WebSocket client connected
+[INFO] 2025/08/03 11:03:30 logger.go:78: WebSocket client disconnected
+[INFO] 2025/08/03 11:03:36 logger.go:78: WebSocket client connected
+[INFO] 2025/08/03 11:04:36 logger.go:78: WebSocket client disconnected
+[INFO] 2025/08/03 11:04:40 logger.go:78: 🚀 启动文档点击排行榜系统...
+[INFO] 2025/08/03 11:04:40 logger.go:78: ✨ 系统已准备好接收文档上传
+[INFO] 2025/08/03 11:04:40 logger.go:78: 🌐 服务器启动于 http://localhost:8080
+[INFO] 2025/08/03 11:04:40 logger.go:78: 📱 Web界面: http://localhost:8080
+[INFO] 2025/08/03 11:04:40 logger.go:78: 📊 API文档: http://localhost:8080/api/health
+[ERROR] 2025/08/03 11:04:40 logger.go:92: 服务器启动失败: listen tcp :8080: bind: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+[INFO] 2025/08/03 11:04:42 logger.go:78: WebSocket client connected
+[INFO] 2025/08/03 11:04:56 logger.go:78: WebSocket client disconnected
+[INFO] 2025/08/03 11:04:56 logger.go:78: WebSocket client connected
+[INFO] 2025/08/03 11:04:57 logger.go:78: WebSocket client disconnected
+[INFO] 2025/08/03 11:04:57 logger.go:78: WebSocket client connected
+[INFO] 2025/08/03 11:05:57 logger.go:78: WebSocket client disconnected
+[INFO] 2025/08/03 11:06:02 logger.go:78: WebSocket client connected
+[INFO] 2025/08/03 11:06:24 logger.go:78: WebSocket client connected
+[INFO] 2025/08/03 11:06:49 logger.go:78: WebSocket client disconnected
+[INFO] 2025/08/03 11:06:49 logger.go:78: WebSocket client connected
+[INFO] 2025/08/03 11:06:59 logger.go:78: 🛑 正在关闭服务器...
+[INFO] 2025/08/03 11:06:59 logger.go:78: ✅ 服务器已关闭
+[INFO] 2025/08/03 11:07:01 logger.go:78: 🚀 启动文档点击排行榜系统...
+[INFO] 2025/08/03 11:07:01 logger.go:78: ✨ 系统已准备好接收文档上传
+[INFO] 2025/08/03 11:07:01 logger.go:78: 🌐 服务器启动于 http://localhost:8080
+[INFO] 2025/08/03 11:07:01 logger.go:78: 📱 Web界面: http://localhost:8080
+[INFO] 2025/08/03 11:07:01 logger.go:78: 📊 API文档: http://localhost:8080/api/health
+[INFO] 2025/08/03 11:07:05 logger.go:78: WebSocket client connected
+[INFO] 2025/08/03 11:07:05 logger.go:78: WebSocket client connected
+[INFO] 2025/08/03 11:08:05 logger.go:78: WebSocket client disconnected
+[INFO] 2025/08/03 11:08:05 logger.go:78: WebSocket client disconnected
+[INFO] 2025/08/03 11:08:11 logger.go:78: WebSocket client connected
+[INFO] 2025/08/03 11:08:11 logger.go:78: WebSocket client connected
+[INFO] 2025/08/03 11:09:11 logger.go:78: WebSocket client disconnected
+[INFO] 2025/08/03 11:09:11 logger.go:78: WebSocket client disconnected
+[INFO] 2025/08/03 11:09:17 logger.go:78: WebSocket client connected
+[INFO] 2025/08/03 11:09:17 logger.go:78: WebSocket client connected
+[INFO] 2025/08/03 11:09:23 logger.go:78: 📖 获取文件内容: doc_1754134841244147100
+[INFO] 2025/08/03 11:09:23 logger.go:78: ✅ 获取内容成功: doc_1754134841244147100
+[INFO] 2025/08/03 11:10:17 logger.go:78: WebSocket client disconnected
+[INFO] 2025/08/03 11:10:17 logger.go:78: WebSocket client disconnected
+[INFO] 2025/08/03 11:10:23 logger.go:78: WebSocket client connected
+[INFO] 2025/08/03 11:10:23 logger.go:78: WebSocket client connected
+[INFO] 2025/08/03 11:11:23 logger.go:78: WebSocket client disconnected
+[INFO] 2025/08/03 11:11:23 logger.go:78: WebSocket client disconnected
+[INFO] 2025/08/03 11:11:29 logger.go:78: WebSocket client connected
+[INFO] 2025/08/03 11:11:29 logger.go:78: WebSocket client connected
+[INFO] 2025/08/03 11:12:17 logger.go:78: 🚀 启动文档点击排行榜系统...
+[INFO] 2025/08/03 11:12:17 logger.go:78: ✨ 系统已准备好接收文档上传
+[INFO] 2025/08/03 11:12:17 logger.go:78: 🌐 服务器启动于 http://localhost:8080
+[INFO] 2025/08/03 11:12:17 logger.go:78: 📱 Web界面: http://localhost:8080
+[INFO] 2025/08/03 11:12:17 logger.go:78: 📊 API文档: http://localhost:8080/api/health
+[INFO] 2025/08/03 11:13:28 logger.go:78: 🛑 正在关闭服务器...
+[INFO] 2025/08/03 11:13:28 logger.go:78: ✅ 服务器已关闭
+[INFO] 2025/08/03 11:14:34 logger.go:78: 🚀 启动文档点击排行榜系统...
+[INFO] 2025/08/03 11:14:34 logger.go:78: ✨ 系统已准备好接收文档上传
+[INFO] 2025/08/03 11:14:34 logger.go:78: 🌐 服务器启动于 http://localhost:8080
+[INFO] 2025/08/03 11:14:34 logger.go:78: 📱 Web界面: http://localhost:8080
+[INFO] 2025/08/03 11:14:34 logger.go:78: 📊 API文档: http://localhost:8080/api/health
+[INFO] 2025/08/03 11:19:53 logger.go:78: 🚀 启动文档点击排行榜系统...
+[INFO] 2025/08/03 11:19:53 logger.go:78: ✨ 系统已准备好接收文档上传
+[INFO] 2025/08/03 11:19:53 logger.go:78: 🌐 服务器启动于 http://localhost:8080
+[INFO] 2025/08/03 11:19:53 logger.go:78: 📱 Web界面: http://localhost:8080
+[INFO] 2025/08/03 11:19:53 logger.go:78: 📊 API文档: http://localhost:8080/api/health
+[INFO] 2025/08/03 11:20:05 logger.go:78: 🛑 正在关闭服务器...
+[INFO] 2025/08/03 11:20:05 logger.go:78: ✅ 服务器已关闭
+[INFO] 2025/08/03 11:22:09 logger.go:78: 🚀 启动文档点击排行榜系统...
+[INFO] 2025/08/03 11:22:09 logger.go:78: ✨ 系统已准备好接收文档上传
+[INFO] 2025/08/03 11:22:09 logger.go:78: 🌐 服务器启动于 http://localhost:8080
+[INFO] 2025/08/03 11:22:09 logger.go:78: 📱 Web界面: http://localhost:8080
+[INFO] 2025/08/03 11:22:09 logger.go:78: 📊 API文档: http://localhost:8080/api/health
+[INFO] 2025/08/03 11:22:56 logger.go:78: 🚀 启动文档点击排行榜系统...
+[INFO] 2025/08/03 11:22:56 logger.go:78: ✨ 系统已准备好接收文档上传
+[INFO] 2025/08/03 11:22:56 logger.go:78: 🌐 服务器启动于 http://localhost:8080
+[INFO] 2025/08/03 11:22:56 logger.go:78: 📱 Web界面: http://localhost:8080
+[INFO] 2025/08/03 11:22:56 logger.go:78: 📊 API文档: http://localhost:8080/api/health
+[ERROR] 2025/08/03 11:22:56 logger.go:92: 服务器启动失败: listen tcp :8080: bind: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+[INFO] 2025/08/03 11:22:58 logger.go:78: 🚀 启动文档点击排行榜系统...
+[INFO] 2025/08/03 11:22:58 logger.go:78: ✨ 系统已准备好接收文档上传
+[INFO] 2025/08/03 11:22:58 logger.go:78: 🌐 服务器启动于 http://localhost:8080
+[INFO] 2025/08/03 11:22:58 logger.go:78: 📱 Web界面: http://localhost:8080
+[INFO] 2025/08/03 11:22:58 logger.go:78: 📊 API文档: http://localhost:8080/api/health
+[ERROR] 2025/08/03 11:22:58 logger.go:92: 服务器启动失败: listen tcp :8080: bind: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+[INFO] 2025/08/03 11:22:58 logger.go:78: 🚀 启动文档点击排行榜系统...
+[INFO] 2025/08/03 11:22:58 logger.go:78: ✨ 系统已准备好接收文档上传
+[INFO] 2025/08/03 11:22:58 logger.go:78: 🌐 服务器启动于 http://localhost:8080
+[INFO] 2025/08/03 11:22:58 logger.go:78: 📱 Web界面: http://localhost:8080
+[INFO] 2025/08/03 11:22:58 logger.go:78: 📊 API文档: http://localhost:8080/api/health
+[ERROR] 2025/08/03 11:22:58 logger.go:92: 服务器启动失败: listen tcp :8080: bind: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+[INFO] 2025/08/03 11:23:15 logger.go:78: WebSocket client connected
+[INFO] 2025/08/03 11:23:18 logger.go:78: 📖 获取文件内容: doc_1754134869806258500
+[INFO] 2025/08/03 11:23:18 logger.go:78: ✅ 获取内容成功: doc_1754134869806258500
+[INFO] 2025/08/03 11:23:23 logger.go:78: 📖 获取文件内容: doc_1754134869806258500
+[INFO] 2025/08/03 11:23:23 logger.go:78: ✅ 获取内容成功: doc_1754134869806258500
+[INFO] 2025/08/03 11:23:25 logger.go:78: 📖 获取文件内容: doc_1754134869806258500
+[INFO] 2025/08/03 11:23:25 logger.go:78: ✅ 获取内容成功: doc_1754134869806258500
+[INFO] 2025/08/03 11:24:15 logger.go:78: WebSocket client disconnected
+[INFO] 2025/08/03 11:24:20 logger.go:78: WebSocket client connected
+[INFO] 2025/08/03 11:25:17 logger.go:78: WebSocket client disconnected
+[INFO] 2025/08/03 11:25:17 logger.go:78: WebSocket client connected
+[INFO] 2025/08/03 11:25:18 logger.go:78: 📖 获取文件内容: doc_1754131449370576100
+[INFO] 2025/08/03 11:25:18 logger.go:78: ✅ 获取内容成功: doc_1754131449370576100
+[INFO] 2025/08/03 11:25:21 logger.go:78: 📖 获取文件内容: doc_1754134841244147100
+[INFO] 2025/08/03 11:25:21 logger.go:78: ✅ 获取内容成功: doc_1754134841244147100
+[INFO] 2025/08/03 11:25:22 logger.go:78: 📖 获取文件内容: doc_1754134869806258500
+[INFO] 2025/08/03 11:25:22 logger.go:78: ✅ 获取内容成功: doc_1754134869806258500
+[INFO] 2025/08/03 11:25:23 logger.go:78: 📖 获取文件内容: doc_1754134869806258500
+[INFO] 2025/08/03 11:25:23 logger.go:78: ✅ 获取内容成功: doc_1754134869806258500
+[INFO] 2025/08/03 11:25:25 logger.go:78: 📖 获取文件内容: doc_1754131346376901300
+[INFO] 2025/08/03 11:25:25 logger.go:78: ✅ 获取内容成功: doc_1754131346376901300
+[INFO] 2025/08/03 11:25:25 logger.go:78: 📖 获取文件内容: doc_1754131346376901300
+[INFO] 2025/08/03 11:25:25 logger.go:78: ✅ 获取内容成功: doc_1754131346376901300
+[INFO] 2025/08/03 11:25:28 logger.go:78: 📖 获取文件内容: doc_1754134869806258500
+[INFO] 2025/08/03 11:25:28 logger.go:78: ✅ 获取内容成功: doc_1754134869806258500
+[INFO] 2025/08/03 11:25:29 logger.go:78: 📖 获取文件内容: doc_1754134869806258500
+[INFO] 2025/08/03 11:25:29 logger.go:78: ✅ 获取内容成功: doc_1754134869806258500
+[INFO] 2025/08/03 11:25:34 logger.go:78: 📝 收到更新文件内容请求: doc_1754134869806258500
+[INFO] 2025/08/03 11:25:34 logger.go:78: 📝 开始更新文件内容: context_test.doc (ID: doc_1754134869806258500, 当前点击: 96)
+[INFO] 2025/08/03 11:25:34 logger.go:78: ✅ 文件内容更新成功: context_test.doc (ID: doc_1754134869806258500, 点击数: 96)
+[INFO] 2025/08/03 11:25:34 logger.go:78: ✅ 更新文件内容成功: context_test.doc (ID: doc_1754134869806258500, 点击数: 96)
+[INFO] 2025/08/03 11:25:35 logger.go:78: 📖 获取文件内容: doc_1754134841244147100
+[INFO] 2025/08/03 11:25:35 logger.go:78: ✅ 获取内容成功: doc_1754134841244147100
+[INFO] 2025/08/03 11:25:38 logger.go:78: 📖 获取文件内容: doc_1754131449370576100
+[INFO] 2025/08/03 11:25:38 logger.go:78: ✅ 获取内容成功: doc_1754131449370576100
+[INFO] 2025/08/03 11:25:40 logger.go:78: 📖 获取文件内容: doc_1754134869806258500
+[INFO] 2025/08/03 11:25:40 logger.go:78: ✅ 获取内容成功: doc_1754134869806258500
+[INFO] 2025/08/03 11:25:55 logger.go:78: 👆 收到点击请求: doc_1754134841244147100
+[INFO] 2025/08/03 11:25:55 logger.go:78: ✅ 点击成功: 中文测试文件.txt (当前点击: 109)
+[INFO] 2025/08/03 11:25:56 logger.go:78: 👆 收到点击请求: doc_1754134841244147100
+[INFO] 2025/08/03 11:25:56 logger.go:78: ✅ 点击成功: 中文测试文件.txt (当前点击: 110)
+[INFO] 2025/08/03 11:25:56 logger.go:78: 👆 收到点击请求: doc_1754134841244147100
+[INFO] 2025/08/03 11:25:56 logger.go:78: ✅ 点击成功: 中文测试文件.txt (当前点击: 111)
+[INFO] 2025/08/03 11:25:56 logger.go:78: 👆 收到点击请求: doc_1754131449370576100
+[INFO] 2025/08/03 11:25:56 logger.go:78: ✅ 点击成功: 中文测试文档.txt (当前点击: 137)
+[INFO] 2025/08/03 11:25:57 logger.go:78: 👆 收到点击请求: doc_1754131449370576100
+[INFO] 2025/08/03 11:25:57 logger.go:78: ✅ 点击成功: 中文测试文档.txt (当前点击: 138)
+[INFO] 2025/08/03 11:25:57 logger.go:78: 👆 收到点击请求: doc_1754131449370576100
+[INFO] 2025/08/03 11:25:57 logger.go:78: ✅ 点击成功: 中文测试文档.txt (当前点击: 139)
+[INFO] 2025/08/03 11:25:57 logger.go:78: 👆 收到点击请求: doc_1754131449370576100
+[INFO] 2025/08/03 11:25:57 logger.go:78: ✅ 点击成功: 中文测试文档.txt (当前点击: 140)
+[INFO] 2025/08/03 11:25:57 logger.go:78: 👆 收到点击请求: doc_1754131449370576100
+[INFO] 2025/08/03 11:25:57 logger.go:78: ✅ 点击成功: 中文测试文档.txt (当前点击: 141)
+[INFO] 2025/08/03 11:25:58 logger.go:78: 👆 收到点击请求: doc_1754131449370576100
+[INFO] 2025/08/03 11:25:58 logger.go:78: ✅ 点击成功: 中文测试文档.txt (当前点击: 142)
+[INFO] 2025/08/03 11:25:59 logger.go:78: 👆 收到点击请求: doc_1754131449370576100
+[INFO] 2025/08/03 11:25:59 logger.go:78: ✅ 点击成功: 中文测试文档.txt (当前点击: 143)
+[INFO] 2025/08/03 11:26:00 logger.go:78: 👆 收到点击请求: doc_1754131449370576100
+[INFO] 2025/08/03 11:26:00 logger.go:78: ✅ 点击成功: 中文测试文档.txt (当前点击: 144)
+[INFO] 2025/08/03 11:26:00 logger.go:78: 👆 收到点击请求: doc_1754131449370576100
+[INFO] 2025/08/03 11:26:00 logger.go:78: ✅ 点击成功: 中文测试文档.txt (当前点击: 145)
+[INFO] 2025/08/03 11:26:00 logger.go:78: 👆 收到点击请求: doc_1754131449370576100
+[INFO] 2025/08/03 11:26:00 logger.go:78: ✅ 点击成功: 中文测试文档.txt (当前点击: 146)
+[INFO] 2025/08/03 11:26:00 logger.go:78: 👆 收到点击请求: doc_1754131449370576100
+[INFO] 2025/08/03 11:26:00 logger.go:78: ✅ 点击成功: 中文测试文档.txt (当前点击: 147)
+[INFO] 2025/08/03 11:26:00 logger.go:78: 👆 收到点击请求: doc_1754131449370576100
+[INFO] 2025/08/03 11:26:00 logger.go:78: ✅ 点击成功: 中文测试文档.txt (当前点击: 148)
+[INFO] 2025/08/03 11:26:00 logger.go:78: 👆 收到点击请求: doc_1754131449370576100
+[INFO] 2025/08/03 11:26:00 logger.go:78: ✅ 点击成功: 中文测试文档.txt (当前点击: 149)
+[INFO] 2025/08/03 11:26:01 logger.go:78: 👆 收到点击请求: doc_1754131449370576100
+[INFO] 2025/08/03 11:26:01 logger.go:78: ✅ 点击成功: 中文测试文档.txt (当前点击: 150)
+[INFO] 2025/08/03 11:26:01 logger.go:78: 👆 收到点击请求: doc_1754131449370576100
+[INFO] 2025/08/03 11:26:01 logger.go:78: ✅ 点击成功: 中文测试文档.txt (当前点击: 151)
+[INFO] 2025/08/03 11:26:01 logger.go:78: 👆 收到点击请求: doc_1754131449370576100
+[INFO] 2025/08/03 11:26:01 logger.go:78: ✅ 点击成功: 中文测试文档.txt (当前点击: 152)
+[INFO] 2025/08/03 11:26:01 logger.go:78: 👆 收到点击请求: doc_1754131449370576100
+[INFO] 2025/08/03 11:26:01 logger.go:78: ✅ 点击成功: 中文测试文档.txt (当前点击: 153)
+[INFO] 2025/08/03 11:26:02 logger.go:78: 👆 收到点击请求: doc_1754131449370576100
+[INFO] 2025/08/03 11:26:02 logger.go:78: ✅ 点击成功: 中文测试文档.txt (当前点击: 154)
+[INFO] 2025/08/03 11:26:02 logger.go:78: 👆 收到点击请求: doc_1754131449370576100
+[INFO] 2025/08/03 11:26:02 logger.go:78: ✅ 点击成功: 中文测试文档.txt (当前点击: 155)
+[INFO] 2025/08/03 11:26:02 logger.go:78: 👆 收到点击请求: doc_1754131449370576100
+[INFO] 2025/08/03 11:26:02 logger.go:78: ✅ 点击成功: 中文测试文档.txt (当前点击: 156)
+[INFO] 2025/08/03 11:26:02 logger.go:78: 👆 收到点击请求: doc_1754131449370576100
+[INFO] 2025/08/03 11:26:02 logger.go:78: ✅ 点击成功: 中文测试文档.txt (当前点击: 157)
+[INFO] 2025/08/03 11:26:08 logger.go:78: 📖 获取文件内容: doc_1754131449370576100
+[INFO] 2025/08/03 11:26:08 logger.go:78: ✅ 获取内容成功: doc_1754131449370576100
+[INFO] 2025/08/03 11:26:10 logger.go:78: 📖 获取文件内容: doc_1754131449370576100
+[INFO] 2025/08/03 11:26:10 logger.go:78: ✅ 获取内容成功: doc_1754131449370576100
+[INFO] 2025/08/03 11:26:17 logger.go:78: WebSocket client disconnected
+[INFO] 2025/08/03 11:26:22 logger.go:78: WebSocket client connected
+[INFO] 2025/08/03 11:27:22 logger.go:78: WebSocket client disconnected
+[INFO] 2025/08/03 11:27:27 logger.go:78: WebSocket client connected
+[INFO] 2025/08/03 11:28:27 logger.go:78: WebSocket client disconnected
+[INFO] 2025/08/03 11:28:32 logger.go:78: WebSocket client connected
+[INFO] 2025/08/03 11:29:11 logger.go:78: 🚀 启动文档点击排行榜系统...
+[INFO] 2025/08/03 11:29:11 logger.go:78: ✨ 系统已准备好接收文档上传
+[INFO] 2025/08/03 11:29:11 logger.go:78: 🌐 服务器启动于 http://localhost:8080
+[INFO] 2025/08/03 11:29:11 logger.go:78: 📱 Web界面: http://localhost:8080
+[INFO] 2025/08/03 11:29:11 logger.go:78: 📊 API文档: http://localhost:8080/api/health
+[INFO] 2025/08/03 11:29:12 logger.go:78: WebSocket client connected
+[INFO] 2025/08/03 11:29:13 logger.go:78: WebSocket client disconnected
+[INFO] 2025/08/03 11:29:13 logger.go:78: WebSocket client connected
+[INFO] 2025/08/03 11:29:34 logger.go:78: WebSocket client disconnected
+[INFO] 2025/08/03 11:29:34 logger.go:78: WebSocket client connected
+[INFO] 2025/08/03 11:30:34 logger.go:78: WebSocket client disconnected
+[INFO] 2025/08/03 11:30:39 logger.go:78: WebSocket client connected
+[INFO] 2025/08/03 11:31:06 logger.go:78: WebSocket client disconnected
+[INFO] 2025/08/03 11:31:49 logger.go:78: 🚀 启动文档点击排行榜系统...
+[INFO] 2025/08/03 11:31:49 logger.go:78: ✨ 系统已准备好接收文档上传
+[INFO] 2025/08/03 11:31:49 logger.go:78: 🌐 服务器启动于 http://localhost:8080
+[INFO] 2025/08/03 11:31:49 logger.go:78: 📱 Web界面: http://localhost:8080
+[INFO] 2025/08/03 11:31:49 logger.go:78: 📊 API文档: http://localhost:8080/api/health
+[INFO] 2025/08/03 11:33:54 logger.go:78: WebSocket client connected
+[INFO] 2025/08/03 11:34:15 logger.go:78: 📖 获取文件内容: doc_1754131449370576100
+[INFO] 2025/08/03 11:34:15 logger.go:78: ✅ 获取内容成功: doc_1754131449370576100
+[INFO] 2025/08/03 11:34:54 logger.go:78: WebSocket client disconnected
+[INFO] 2025/08/03 11:34:59 logger.go:78: WebSocket client connected
+[INFO] 2025/08/03 11:35:30 logger.go:78: 🚀 启动文档点击排行榜系统...
+[INFO] 2025/08/03 11:35:30 logger.go:78: ✨ 系统已准备好接收文档上传
+[INFO] 2025/08/03 11:35:30 logger.go:78: 🌐 服务器启动于 http://localhost:8080
+[INFO] 2025/08/03 11:35:30 logger.go:78: 📱 Web界面: http://localhost:8080
+[INFO] 2025/08/03 11:35:30 logger.go:78: 📊 API文档: http://localhost:8080/api/health
+[INFO] 2025/08/03 11:35:33 logger.go:78: WebSocket client connected
+[INFO] 2025/08/03 11:36:33 logger.go:78: WebSocket client disconnected
+[INFO] 2025/08/03 11:36:34 logger.go:78: WebSocket client connected
+[INFO] 2025/08/03 11:36:38 logger.go:78: WebSocket client disconnected
+[INFO] 2025/08/03 11:36:38 logger.go:78: WebSocket client connected
+[INFO] 2025/08/03 11:36:38 logger.go:78: WebSocket client disconnected
+[INFO] 2025/08/03 11:36:38 logger.go:78: WebSocket client connected
+[INFO] 2025/08/03 11:36:39 logger.go:78: WebSocket client disconnected
+[INFO] 2025/08/03 11:36:39 logger.go:78: WebSocket client connected
+[INFO] 2025/08/03 11:36:41 logger.go:78: WebSocket client disconnected
+[INFO] 2025/08/03 11:36:41 logger.go:78: WebSocket client connected
+[INFO] 2025/08/03 11:37:41 logger.go:78: WebSocket client disconnected
+[INFO] 2025/08/03 11:37:46 logger.go:78: WebSocket client connected
+[INFO] 2025/08/03 11:39:25 logger.go:78: 🚀 启动文档点击排行榜系统...
+[INFO] 2025/08/03 11:39:25 logger.go:78: ✨ 系统已准备好接收文档上传
+[INFO] 2025/08/03 11:39:25 logger.go:78: 🌐 服务器启动于 http://localhost:8080
+[INFO] 2025/08/03 11:39:25 logger.go:78: 📱 Web界面: http://localhost:8080
+[INFO] 2025/08/03 11:39:25 logger.go:78: 📊 API文档: http://localhost:8080/api/health
+[INFO] 2025/08/03 11:39:28 logger.go:78: WebSocket client connected
+[INFO] 2025/08/03 11:39:28 logger.go:78: WebSocket client disconnected
+[INFO] 2025/08/03 11:39:28 logger.go:78: WebSocket client connected
+[INFO] 2025/08/03 11:39:36 logger.go:78: WebSocket client disconnected
+[INFO] 2025/08/03 11:39:36 logger.go:78: WebSocket client connected
+[INFO] 2025/08/03 11:39:40 logger.go:78: WebSocket client disconnected
+[INFO] 2025/08/03 11:39:47 logger.go:78: WebSocket client connected
+[INFO] 2025/08/03 11:40:01 logger.go:78: WebSocket client disconnected
+[INFO] 2025/08/03 11:40:01 logger.go:78: WebSocket client connected
+[INFO] 2025/08/03 11:41:01 logger.go:78: WebSocket client disconnected
+[INFO] 2025/08/03 11:41:06 logger.go:78: WebSocket client connected
+[INFO] 2025/08/03 11:41:17 logger.go:78: WebSocket client disconnected
+[INFO] 2025/08/03 11:41:17 logger.go:78: WebSocket client connected
+[INFO] 2025/08/03 11:41:17 logger.go:78: WebSocket client disconnected
+[INFO] 2025/08/03 11:41:17 logger.go:78: WebSocket client connected
+[INFO] 2025/08/03 11:41:18 logger.go:78: WebSocket client disconnected
+[INFO] 2025/08/03 11:41:18 logger.go:78: WebSocket client connected
+[INFO] 2025/08/03 11:41:18 logger.go:78: WebSocket client disconnected
+[INFO] 2025/08/03 11:41:18 logger.go:78: WebSocket client connected
+[INFO] 2025/08/03 11:41:27 logger.go:78: WebSocket client disconnected
+[INFO] 2025/08/03 11:41:41 logger.go:78: WebSocket client connected
+[INFO] 2025/08/03 11:42:25 logger.go:78: WebSocket client connected
+[INFO] 2025/08/03 11:42:28 logger.go:78: 📖 获取文件内容: doc_1754134869806258500
+[INFO] 2025/08/03 11:42:28 logger.go:78: ✅ 获取内容成功: doc_1754134869806258500
+[INFO] 2025/08/03 11:42:41 logger.go:78: WebSocket client disconnected
+[INFO] 2025/08/03 11:42:46 logger.go:78: WebSocket client connected
+[INFO] 2025/08/03 11:43:10 logger.go:78: WebSocket client disconnected
+[INFO] 2025/08/03 11:43:10 logger.go:78: WebSocket client connected
+[INFO] 2025/08/03 11:43:10 logger.go:78: WebSocket client disconnected
+[INFO] 2025/08/03 11:43:10 logger.go:78: WebSocket client connected
+[INFO] 2025/08/03 11:43:46 logger.go:78: WebSocket client disconnected
+[INFO] 2025/08/03 11:44:47 logger.go:78: 🚀 启动文档点击排行榜系统...
+[INFO] 2025/08/03 11:44:47 logger.go:78: ✨ 系统已准备好接收文档上传
+[INFO] 2025/08/03 11:44:47 logger.go:78: 🌐 服务器启动于 http://localhost:8080
+[INFO] 2025/08/03 11:44:47 logger.go:78: 📱 Web界面: http://localhost:8080
+[INFO] 2025/08/03 11:44:47 logger.go:78: 📊 API文档: http://localhost:8080/api/health
+[INFO] 2025/08/03 11:45:01 logger.go:78: WebSocket client connected
+[INFO] 2025/08/03 11:45:07 logger.go:78: 👆 收到点击请求: doc_1754131449370576100
+[INFO] 2025/08/03 11:45:07 logger.go:78: ✅ 点击成功: 中文测试文档.txt (当前点击: 158)
+[INFO] 2025/08/03 11:45:07 logger.go:78: 👆 收到点击请求: doc_1754131449370576100
+[INFO] 2025/08/03 11:45:07 logger.go:78: ✅ 点击成功: 中文测试文档.txt (当前点击: 159)
+[INFO] 2025/08/03 11:45:07 logger.go:78: 👆 收到点击请求: doc_1754131449370576100
+[INFO] 2025/08/03 11:45:07 logger.go:78: ✅ 点击成功: 中文测试文档.txt (当前点击: 160)
+[INFO] 2025/08/03 11:45:08 logger.go:78: 👆 收到点击请求: doc_1754134841244147100
+[INFO] 2025/08/03 11:45:08 logger.go:78: ✅ 点击成功: 中文测试文件.txt (当前点击: 112)
+[INFO] 2025/08/03 11:45:08 logger.go:78: 👆 收到点击请求: doc_1754134841244147100
+[INFO] 2025/08/03 11:45:08 logger.go:78: ✅ 点击成功: 中文测试文件.txt (当前点击: 113)
+[INFO] 2025/08/03 11:45:09 logger.go:78: 👆 收到点击请求: doc_1754134841244147100
+[INFO] 2025/08/03 11:45:09 logger.go:78: ✅ 点击成功: 中文测试文件.txt (当前点击: 114)
+[INFO] 2025/08/03 11:45:09 logger.go:78: 👆 收到点击请求: doc_1754134841244147100
+[INFO] 2025/08/03 11:45:09 logger.go:78: ✅ 点击成功: 中文测试文件.txt (当前点击: 115)
+[INFO] 2025/08/03 11:45:11 logger.go:78: 📖 获取文件内容: doc_1754134841244147100
+[INFO] 2025/08/03 11:45:11 logger.go:78: ✅ 获取内容成功: doc_1754134841244147100
+[INFO] 2025/08/03 11:45:14 logger.go:78: 📖 获取文件内容: doc_1754134841244147100
+[INFO] 2025/08/03 11:45:14 logger.go:78: ✅ 获取内容成功: doc_1754134841244147100
+[INFO] 2025/08/03 11:45:16 logger.go:78: 👆 收到点击请求: doc_1754134841244147100
+[INFO] 2025/08/03 11:45:16 logger.go:78: ✅ 点击成功: 中文测试文件.txt (当前点击: 116)
+[INFO] 2025/08/03 11:45:16 logger.go:78: 👆 收到点击请求: doc_1754134841244147100
+[INFO] 2025/08/03 11:45:16 logger.go:78: ✅ 点击成功: 中文测试文件.txt (当前点击: 117)
+[INFO] 2025/08/03 11:45:16 logger.go:78: 👆 收到点击请求: doc_1754134841244147100
+[INFO] 2025/08/03 11:45:16 logger.go:78: ✅ 点击成功: 中文测试文件.txt (当前点击: 118)
+[INFO] 2025/08/03 11:45:47 logger.go:78: 📖 获取文件内容: doc_1754131449370576100
+[INFO] 2025/08/03 11:45:47 logger.go:78: ✅ 获取内容成功: doc_1754131449370576100
+[INFO] 2025/08/03 11:45:49 logger.go:78: 📖 获取文件内容: doc_1754131449370576100
+[INFO] 2025/08/03 11:45:49 logger.go:78: ✅ 获取内容成功: doc_1754131449370576100
+[INFO] 2025/08/03 11:45:54 logger.go:78: WebSocket client disconnected
+[INFO] 2025/08/03 11:45:55 logger.go:78: 🛑 正在关闭服务器...
+[INFO] 2025/08/03 11:45:55 logger.go:78: ✅ 服务器已关闭
